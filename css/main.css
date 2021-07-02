@@ -118,8 +118,8 @@ html {
 .img-header {
   position: relative;
   margin-top: 3px;
-  margin-left: 0vw;
-  margin-right: 10px;
+  margin-left: 3px;
+  margin-right: 10px; 
   float: left;
 }
 
