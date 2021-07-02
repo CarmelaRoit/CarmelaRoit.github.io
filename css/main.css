@@ -118,13 +118,13 @@ html {
 .img-header {
   position: relative;
   margin-top: 0vw;
-  margin-right: 4vw;
+  margin-right: 2vw;
   float: right;
 }
 
 .flex {
-  width: 7vw;
-  height: 7vw;
+  width: 3vw;
+  height: 3vw;
   border-radius: 50%;
   object-fit: cover;
   vertical-align: super;
