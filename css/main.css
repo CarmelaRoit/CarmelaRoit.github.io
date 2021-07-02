@@ -117,11 +117,11 @@ html {
 
 #avatar {
   /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-  background-image: url('http://i.stack.imgur.com/Dj7eP.jpg');
+  background-image: url('C:\Users\Carmela\Documents\myWebSite\CarmelaRoit.github.io\images\flex.jpg');
   
   /* make a square container */
-  width: 150px;
-  height: 150px;
+  width: 10px;
+  height: 10px;
 
   /* fill the container, preserving aspect ratio, and cropping to fit */
   background-size: cover;
