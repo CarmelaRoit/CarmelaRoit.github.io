@@ -124,8 +124,8 @@ html {
 }
 
 .flex {
-  width: 3vw;
-  height: 3vw;
+  width: 2vw;
+  height: 2vw;
   border-radius: 50%;
   object-fit: cover;
   vertical-align: super;
