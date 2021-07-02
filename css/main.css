@@ -115,7 +115,7 @@ html {
   height: auto;
 }
 
-.flex {
+flex {
   /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
   background-image: src="images/flex.jpg";
   
