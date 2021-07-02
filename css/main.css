@@ -117,10 +117,9 @@ html {
 
 .img-header {
   position: relative;
-  /* margin-top: 3px;
+  margin-top: 3px;
   margin-left: 1px;
-  margin-right: 5px;  */
-  padding: 2px;
+  margin-right: 2px; 
   float: left;
 }
 
