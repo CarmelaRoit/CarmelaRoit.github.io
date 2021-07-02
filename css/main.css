@@ -115,9 +115,9 @@ html {
   height: auto;
 }
 
-#avatar {
+.flex {
   /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-  background-image: url('C:\Users\Carmela\Documents\myWebSite\CarmelaRoit.github.io\images\flex.jpg');
+  background-image: src="images/flex.jpg";
   
   /* make a square container */
   width: 10px;
