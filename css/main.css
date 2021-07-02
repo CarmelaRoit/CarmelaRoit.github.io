@@ -115,23 +115,21 @@ html {
   height: auto;
 }
 
-flex {
-  /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-  background-image: src="images/flex.jpg";
-  
-  /* make a square container */
-  width: 10px;
-  height: 10px;
-
-  /* fill the container, preserving aspect ratio, and cropping to fit */
-  background-size: cover;
-
-  /* center the image vertically and horizontally */
-  background-position: top center;
-
-  /* round the edges to a circle with border radius 1/2 container size */
-  border-radius: 50%;
+.img-header {
+  position: relative;
+  margin-top: 0vw;
+  margin-right: 4vw;
+  float: right;
 }
+
+.flex {
+  width: 7vw;
+  height: 7vw;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: super;
+}
+
 footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
